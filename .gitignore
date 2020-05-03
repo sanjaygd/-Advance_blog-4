@@ -1,0 +1,7 @@
+venv/
+.vscode/
+AB/blog/db.sqlite3
+AB/blog/blog_app/migrations/
+AB/static_cdn/
+AB/media_cdn/
+AB/blog/blog/__pycache__/
